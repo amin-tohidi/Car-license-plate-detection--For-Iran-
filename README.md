@@ -1,6 +1,6 @@
 # Car-license-plate-detection-
-برنامه پلاک خوان - مخصوص پلاک ایرانی 
 
+<b>Ability to manually adjust the artificial neural network </b>
 
 
 ![22](https://user-images.githubusercontent.com/76064876/138587428-2101887a-5d98-43d6-900d-3647c2f96a67.jpg)
