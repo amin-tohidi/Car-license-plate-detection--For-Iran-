@@ -34,7 +34,8 @@ At this stage, with the CNN neural network, as well as various filters and activ
 
 
 # License plate detection program graphics
-![گرافیک برنامه](https://user-images.githubusercontent.com/76064876/138587401-01c96588-7ef2-40ae-a28b-46128513c44e.JPG)
+
+![گرافیک برنامه](https://user-images.githubusercontent.com/76064876/138587773-b2c062a4-7ac2-4965-96ac-49741004ac98.JPG)
 
 
 
